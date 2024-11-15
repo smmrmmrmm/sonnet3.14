@@ -1,0 +1,14 @@
+A canvas of an empty list will do
+the counter I then set to equal none,
+for i in range one thousand-sixty-two.
+	if i mod thirty equals twenty-one.
+		if the counter lies twixt twelve and six
+			the line is fourteen dots, twelve sharps, nine dots
+		elif 'tween twenty and four less it sticks
+			instead its sixteen sharps post nine-teen spots
+		else thirty-five full stops the line's comprised
+		the line becomes the line and line reversed
+		the counter, adding one, is now resized
+		the line appends the canvas uncoerced
+row by row the canvas prints its part
+print("Who said I can't make code into art")
